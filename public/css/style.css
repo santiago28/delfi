@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+footer { text-align: center; color: #666; }
+footer p { padding-top: 5px; }
+.clear {
+	clear: both;
+}
+.centrar {
+	text-align: center;
+}
+.centrar a {
+	color: red;
+	font-size: 20px;
+}
